@@ -1,0 +1,15 @@
+{
+  "name": "progtax",
+  "version": "1.0.0",
+  "description": "Tax calculation algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tax",
+    "progressive"
+  ],
+  "author": "ztonia",
+  "license": "ISC"
+}
