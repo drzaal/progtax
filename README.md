@@ -1,4 +1,4 @@
-``` The Generalized Configurable Progressive Income Tax Calculator
+# The Generalized Configurable Progressive Income Tax Calculator
 This project is intended to create a generalized, adjustable, mathematically consistent calculator to produce a true continous progressive income tax.
 
 The current system is defined by a limited set of ascending marginal tax bracket categories. You earn under 15K, you're taxed at 14%. Every dollar you earn over 15K but under 50K is taxed at 18%, dollars between 50K and 100k at 21%, etc.
@@ -24,15 +24,17 @@ Okay, so we've proposed this sweet solution and wallstreet is freaking out. The 
 
 And you know what? This is America. We just don't do Socialism here. For better or worse, we do love our robber billionaires, it's part of the dream. Part of the story and promise of American opportunity. And let's be honest, the numerical reality of this system would be the end of the super-rich, and we shouldn't be in this to force a political agenda on folks.
 
-So to make things a little less ideological, we will introduce a new parameter. Maximum allowable tax rate, which removes the social justice hammer while preserving the principles of the tax rate.
+So to make things a little less ideological, we will introduce a new parameter. Maximum allowable tax rate, which removes the social justice hammer while preserving the principles of the tax rate. New Rule:
+
+4. The Maximum tax limit is no longer 100% at infinity, but is configurable.
 
 So here's our formula: Tax = Income * Maximum_Tax * (Income)^(p)/(Income^p + Rate^-p)
 
 Where p is the 'Progressivity Index'. It is a measure of how far the burden of taxation is shifted to upper income earners.
 Rate adjusts the overall rate of taxation for all earners.
-Another way to describe these two parameters would be: balance and burden
+Another way to describe these two parameters would be: *balance* and *burden*
 
-But the truth is that our solution for the Rate parameter is pretty unreasonable, largely because it should be tied to the value of the currency in order to turn into sensible numbers. So here I am going to tie it to a particular income: $1,000,000.00
+But the truth is that our solution for the Rate parameter is pretty unreasonable, largely because it should be tied to the value of the currency in order to turn into sensible numbers. So here I am going to tie it to a particular income: **$1,000,000.00**
 
 So here's our final formula: Tax = Income * Maximum_Tax * (Income)^(p)/(Income^p + (Rate/1e6)^-p)
 
@@ -43,6 +45,7 @@ Burden = 25%
 Maximum Tax rate 66%
 
 And here are our effective tax rates!
+```
 Total Income		Effective Rate
 $10,000 			12.46%
 $100,000 			19.16%
@@ -51,5 +54,6 @@ $10,000,000 		36.85%
 $100,000,000	 	45.51%
 $1,000,000,000 		52.55%
 $10,000,000,000		57.61%
+```
 
 So we approach, but will never reach, the 2/3 tax rate. Taxes are low for broke folks, reasonable for the middle class, and honestly a bit lower in the range between stupid rich, and filthy abominably rich.
