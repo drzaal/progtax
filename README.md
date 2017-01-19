@@ -19,7 +19,7 @@ Why? Well if you earn 0 dollars, you need every penny you earn.
 If you earn too much, society will no longer benefit from paying you more. We want to discourage the absolute concentration of wealth into the hands of a single person.
 However, we never want to punish someone for earning more. It will ALWAYS be true that earning more means keeping more.
 
-Communism! You cry. Unfair! You extort. Yea well gobble on it buddy. Capitolism requires two things, supply and demand. And if our country's money is no longer available to a broad middle class, there'll be plenty of supply but not an ounce of demand. Plus bruh, math doesn't lie.
+Communism! You cry. Unfair! You extort. Yea well gobble on it buddy. Capitalism requires two things, supply and demand. And if our country's money is no longer available to a broad middle class, there'll be plenty of supply but not an ounce of demand. Plus bruh, math doesn't lie.
 
 Okay, so we've proposed this sweet solution and wallstreet is freaking out. The institutional trust fund wealthocracy is up in arms. Talk radio is foaming at the mouth.
 
