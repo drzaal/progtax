@@ -1,7 +1,7 @@
 # The Generalized Configurable Progressive Income Tax Calculator
 This project is intended to create a generalized, adjustable, mathematically consistent calculator to produce a true continous progressive income tax.
 
-The current system is defined by a limited set of ascending marginal tax bracket categories. You earn under 15K, you're taxed at 14%. Every dollar you earn over 15K but under 50K is taxed at 18%, dollars between 50K and 100k at 21%, etc.
+The current system is defined by a limited set of ascending marginal tax bracket categories. You earn under 15K, you're taxed at 14%. Every dollar you earn over 15K but under 50K is taxed at 18%, dollars between 50K and 100k at 21%, etc. (These are not real numbers)
 
 System is reasonable, accessible, and a mathematical eyesore. The worst part is that your end user, the taxpayer, ends up having to consult a complicated table to do their taxes.
 
