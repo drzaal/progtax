@@ -9,8 +9,9 @@ A continuous solution for a true progressive income tax is more complicated to i
 
 In a way though, the true value of this formula is not necessarily its implementation, but the light it shines on just how astronomically unbalanced the distribution of wealth is in the modern economy. To wit, if you take some reasonable best fit solutions to match historic tax codes (the Obama solution, the Bush solution, the Clinton solution), and then extrapolate the curve to the eschelon of upper income earners, the resultant tax rate is significantly higher than politics or pragmatism would allow.
 
-First pass -
-1. The rules: If you earn 0 dollars, your tax rate should be 0 percent.
+First pass, rules
+
+1. If you earn 0 dollars, your tax rate should be 0 percent.
 2. If you make infinity dollars, your marginal tax rate approaches a limit of 100% and your after tax income reaches an absolute defined maximum. 
 3. For any income less than infinity dollars, it is always true you will keep more money if you earn more money.
 
